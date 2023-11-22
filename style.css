@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 50px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+  
+}
+button{
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 600;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    cursor: pointer;
+}
