@@ -29,7 +29,7 @@ Get ready to laugh with the "Get Jokes" app powered by the Chuck Norris Jokes AP
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/get-jokes-app.git
+   git clone https://github.com/pravin-72/Jokes-API.git
    ```
 
 2. Open `index.html` in your preferred web browser.
